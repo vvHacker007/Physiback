@@ -95,7 +95,7 @@ Abhijeet Jha
 Aditya Mukherjee
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/67542982?v=4"  height="120" alt="Indira Dutta">
+<img src = "https://avatars.githubusercontent.com/u/60893631?v=4"  height="120" alt="Indira Dutta">
 </p>
 <p align="center">
 <a href = "https://github.com/adityamukherjee42"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>

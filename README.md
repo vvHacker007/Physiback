@@ -45,19 +45,13 @@ Keeping all of this in mind, we came up with a live workout analysis called Phys
         pip install -r requirements.txt
 - Cloning the Repository: 
 
-        git clone https://github.com/aryankargwal/capbot2.0
+        git clone https://github.com/vvHacker007/NTL_Hack_2022
 - Entering the directory for captioning: 
 
-        cd capbot2.0/camera
+        cd NTL_Hack_2022
 - Running the captioning web application:
 
-        streamlit run feed.py
-- Entering the directory for searching: 
-
-        cd capbot2.0/search
-- Running the searching web application:
-
-        streamlit run search.py
+        streamlit run physio.py
 - Stopping the web application from the terminal
 
         Ctrl+C

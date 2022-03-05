@@ -16,11 +16,9 @@ There are multiple issues that people face in relation with the exercises, fitne
 <br>
 
 ## Proposed Solution<br>
-Keeping all of this in mind, we came up with a live workout analysis called Physisback. You can now analyze your past workouts or even your current workout and get feedback all from your home. Physiback uses the power of AI and helps users to get a grade on their exercise and also suggestions all from the comfort of their home<Br>
-<img src = "assets/cameraui.jpg" width = "500px"><br>
-- The file of saved captions can then be used to look up for incidents from any instant of time just by entering a few keywords.  The returned camera number and time slot can then be used to obtain the required CCTV footage.<br>
-<img src = "assets/search_tab.png" width = "500px"><br>
-  
+Keeping all of this in mind, we came up with a live workout analysis called Physisback. You can now analyze your past workouts or even your current workout and get feedback all from your home. Physiback uses the power of AI and helps users to get a grade on their exercise and also suggestions all from the comfort of their home<br><br>
+<img src = "correct.gif" width = "500px"><br>
+
 <!-- ### Check out the [Project Proposal](https://www.youtube.com/watch?v=Sr8dNQMBRZI) for our product. -->
 
 ## Advantages and Features

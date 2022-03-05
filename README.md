@@ -5,44 +5,42 @@ Repository to hold code for the '*exercise posture analysis*' project that is be
 
 ## Problem Inspiration<br>
 <img src="assets/cctv_system.jpg" width = "500px"><br>
-A plethora of surveillance devices are being used by the Defense Services for supervision and monitoring. However, most of them are manually operated at the cost of enormous amounts of time and manual labour.<br>
+The interest in Fitness and Gym is on the rise, and people have started knowing the importance of fitness and health in these trying times. With Gym costly for many  and lack of proper guidance. Injuries have become very frequent. .<br>
 <br>
 
 ## Problem Description<br>
-Present state-of-the-art Surveillance Devices require both consistent manual assistance and time for their successful operation. This results in a considerable loss of manual and technical resources.
+There are multiple issues that people face in relation with the exercises, fitness and gym scenario, few of them are given as follows:
+- The gym costs a lot of money, time. Many people don't want to pay for a gym membership if they're not going that often.
+- Proper feedback and guidance is a must in exercise or else it can lead to painful and sometimes crippling injuries  
+- Due to covid, many have opted to do workouts at home. But with , with more than 1000 youtube videos, people find it hard to actually understand the correct technique
 <br>
 
 ## Proposed Solution<br>
-We propose a Deep Learning Application that will be able to solve the above mentioned problems. 
-- Our application named ‘Cap-Bot’ is capable of running Image Captioning on multiple CCTV footages and storing the captions along with the camera number and the time of capture in a convenient log.<Br>
+Keeping all of this in mind, we came up with a live workout analysis called Physisback. You can now analyze your past workouts or even your current workout and get feedback all from your home. Physiback uses the power of AI and helps users to get a grade on their exercise and also suggestions all from the comfort of their home<Br>
 <img src = "assets/cameraui.jpg" width = "500px"><br>
 - The file of saved captions can then be used to look up for incidents from any instant of time just by entering a few keywords.  The returned camera number and time slot can then be used to obtain the required CCTV footage.<br>
 <img src = "assets/search_tab.png" width = "500px"><br>
   
-### Check out the [Project Proposal](https://www.youtube.com/watch?v=Sr8dNQMBRZI) for our product.
+<!-- ### Check out the [Project Proposal](https://www.youtube.com/watch?v=Sr8dNQMBRZI) for our product. -->
 
 ## Advantages and Features
-- Interface to map CCTV Location in a defined area and eventually help single out points of interest.<br>
-<img src = "assets/locations.png" width = "500px"><br>
-- Since our model relies on Deep Learning, the time can be reduced considerably as we are resorting to an automatic searching operation.<br>
-<img src = "assets/dl.png" width = "500px"><br>
-- Since the information is purely textual, the encryption of information is way easier than pictorial.<br>
-<img src = "assets/encrypt.png" width = "500px"><br>
+- **Auto Feedback**:  You can get Feedback on your exercises about your posture and the corrections required to improve it.<br>
+- **Auto Grading**: Using our calculation, we grade each repetition your perform in your video.<br>
+- **Post-workout analysis**: You can upload your CSV of past workout and analyze it.<br>
   
 ## Steps of Deployment
-- [x] Training the Model
-- [x] Write the Search Module
-- [x] Captioning UI
-- [x] Search UI
-- [x] Perfecting Search feature 
-- [x] Resolving Backend
-- [x] Encryption of Generation Captions<br>
+- [x] Develop a basic Streamlit website
+- [x] Video input through live feed or recorded video
+- [x] Image processing
+- [x] Pose estimation
+- [x] Repetition analysis 
+- [x] Download analysis through CSV<br>
 <i>Extra Feature</i>
-- [ ] CCTV Localization with results
+- [ ] Multiple angle analysis
 
 
 ## Using the deployed version of the web application
-Please download the <a href = "https://drive.google.com/drive/folders/10RaV7DTsFVgdYeJZIyveyeJKhfvFiKT2?usp=sharing">Model Checkpoints</a> and move the file to the <a href = "https://github.com/aryankargwal/capbot2.0/tree/main/camera">camera</a> folder.
+<!-- Please download the <a href = "https://drive.google.com/drive/folders/10RaV7DTsFVgdYeJZIyveyeJKhfvFiKT2?usp=sharing">Model Checkpoints</a> and move the file to the <a href = "https://github.com/aryankargwal/capbot2.0/tree/main/camera">camera</a> folder. -->
 
 - Setting up the Python Environment with dependencies 
 

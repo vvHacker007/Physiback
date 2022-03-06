@@ -1,4 +1,4 @@
-# NTL Hack 2022
+# Physiback
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)<br>
 Repository to hold code for the '*exercise posture analysis*' project that is being presented in an internal hackathon at NextTech Lab Hack 2022.
 <br>

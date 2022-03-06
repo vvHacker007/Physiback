@@ -5,7 +5,7 @@ Repository to hold code for the '*exercise posture analysis*' project that is be
 
 ## Problem Inspiration<br>
 <br>
-<img align='center' src="Images/3.png" height=500px><br>
+<img align='center' height=500px src="Images/3.png"><br>
 <br>
 The interest in Fitness and Gym is on the rise, and people have started knowing the importance of fitness and health in these trying times. With Gym costly for many  and lack of proper guidance. Injuries have become very frequent. .<br>
 <br>

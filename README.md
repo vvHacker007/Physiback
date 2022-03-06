@@ -9,7 +9,7 @@ Repository to hold code for the '*exercise posture analysis*' project that is be
     <img align='center'  width=500px src="Images/3.png"><br>
 </p>
 <br>
-The interest in Fitness and Gym is on the rise, and people have started knowing the importance of fitness and health in these trying times. With Gym costly for many  and lack of proper guidance. Injuries have become very frequent. .<br>
+The interest in Fitness has been on the rise, and people have started knowing the importance of exercise and health in these trying times. With Gym costly for many  and lack of proper guidance. Injuries have become very frequent. .<br>
 <br>
 
 
@@ -23,7 +23,7 @@ The interest in Fitness and Gym is on the rise, and people have started knowing 
     <img src="Images/problems.png"><br>
 </p>
 <br>
-*What are the benifits we get if we exercise regularly?*
+<i>What are the benifits we get if we exercise regularly?</i>
 <br>
 <br>
 <p align="center" width="100%">
@@ -38,9 +38,9 @@ There are multiple issues that people face in relation with the exercises, fitne
 
 ## Proposed Solution<br>
 Keeping all of this in mind, we came up with a live workout analysis called Physisback. You can now analyze your past workouts or even your current workout and get feedback all from your home. Physiback uses the power of AI and helps users to get a grade on their exercise and also suggestions all from the comfort of their home<br><br>
-<!-- ![DEMO]("https://github.com/vvHacker007/NTL_Hack_2022/blob/main/Assets/Videos/DEMO.mp4") -->
+[!DEMO]("https://github.com/vvHacker007/NTL_Hack_2022/blob/main/Assets/Videos/DEMO.mp4")
 
-### Check out the [Project Proposal](https://www.canva.com/design/DAE6Ft86pmE/6XbJ9HAkYR17zx3zRZ6uOg/edit) for our product.
+### Check out the [Project Proposal](https://www.canva.com/design/DAE6Ft86pmE/UrXmR4n-ZlNA-ntbw3mXcw/view?utm_content=DAE6Ft86pmE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) for our product.
 
 ## Features:
 - **Auto Feedback**:  You can get Feedback on your exercises about your posture and the corrections required to improve it.<br>
@@ -83,7 +83,7 @@ Keeping all of this in mind, we came up with a live workout analysis called Phys
 This project is under the Apache License. See [LICENSE](LICENSE) for Details.
 
 ## Contributors
-
+<p align="center" width="100%">
 <table>
 <tr align="center">
 <td>
@@ -148,8 +148,7 @@ Vedansh Vijaywargiya
   </table>
 </tr>
   </table>
-
-
+</p>
 <p align="center">
 crafted with <span style="color: #8b0000;">&hearts;</span> by team <b>Hum bhi bana lenge</b>
 </p>

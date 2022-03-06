@@ -83,8 +83,8 @@ Keeping all of this in mind, we came up with a live workout analysis called Phys
 This project is under the Apache License. See [LICENSE](LICENSE) for Details.
 
 ## Contributors
-<p align="center" width="100%">
-<table>
+
+<table align="center" style="margin: 0px auto;">
 <tr align="center">
 <td>
 
@@ -148,7 +148,7 @@ Vedansh Vijaywargiya
   </table>
 </tr>
   </table>
-</p>
+  
 <p align="center">
 crafted with <span style="color: #8b0000;">&hearts;</span> by team <b>Hum bhi bana lenge</b>
 </p>

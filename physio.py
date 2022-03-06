@@ -2,6 +2,9 @@ from time import perf_counter
 import streamlit as st
 import cv2
 import io
+import mediapipe as mp
+import numpy as np
+import imageio
 
 if 'video_captured' not in st.session_state:
     st.session_state.video_captured = False
@@ -9,8 +12,6 @@ if 'analysis_done' not in st.session_state:
     st.session_state.analysis_done = False
 
 def videoCapture(src):
-    import mediapipe as mp
-    import numpy as np
     mp_drawing = mp.solutions.drawing_utils
     mp_pose = mp.solutions.pose
     
@@ -159,7 +160,6 @@ def analyseVideo():
         return
     
     #Generating Sugegstions based on rep_report:
-    import imageio
     suggestions = []
     perfect_rep = 0
     for rep in range(0,tot_rep):

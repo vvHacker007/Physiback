@@ -4,11 +4,26 @@ Repository to hold code for the '*exercise posture analysis*' project that is be
 <br>
 
 ## Problem Inspiration<br>
-<img src="assets/cctv_system.jpg" width = "500px"><br>
+<br>
+<img src="Images/3.png" height=500px><br>
+<br>
 The interest in Fitness and Gym is on the rise, and people have started knowing the importance of fitness and health in these trying times. With Gym costly for many  and lack of proper guidance. Injuries have become very frequent. .<br>
 <br>
 
+
+
+
 ## Problem Description<br>
+*What are the problems we face if we don't exercise for a long time?*
+<br>
+<br>
+<img src="Images/problems.png"><br>
+<br>
+*What are the benifits we get if we exercise regularly?*
+<br>
+<br>
+<img src="Images/2.png"><br>
+<br>
 There are multiple issues that people face in relation with the exercises, fitness and gym scenario, few of them are given as follows:
 - The gym costs a lot of money, time. Many people don't want to pay for a gym membership if they're not going that often.
 - Proper feedback and guidance is a must in exercise or else it can lead to painful and sometimes crippling injuries  
@@ -17,8 +32,7 @@ There are multiple issues that people face in relation with the exercises, fitne
 
 ## Proposed Solution<br>
 Keeping all of this in mind, we came up with a live workout analysis called Physisback. You can now analyze your past workouts or even your current workout and get feedback all from your home. Physiback uses the power of AI and helps users to get a grade on their exercise and also suggestions all from the comfort of their home<br><br>
-<img src = "correct.gif" width = "500px"><br>
-
+<!-- ![DEMO]("https://github.com/vvHacker007/NTL_Hack_2022/blob/main/Assets/Videos/DEMO.mp4") -->
 <!-- ### Check out the [Project Proposal](https://www.youtube.com/watch?v=Sr8dNQMBRZI) for our product. -->
 
 ## Advantages and Features

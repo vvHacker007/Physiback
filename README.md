@@ -38,7 +38,8 @@ There are multiple issues that people face in relation with the exercises, fitne
 
 ## Proposed Solution<br>
 Keeping all of this in mind, we came up with a live workout analysis called Physisback. You can now analyze your past workouts or even your current workout and get feedback all from your home. Physiback uses the power of AI and helps users to get a grade on their exercise and also suggestions all from the comfort of their home<br><br>
-[!DEMO]("https://github.com/vvHacker007/NTL_Hack_2022/blob/main/Assets/Videos/DEMO.mp4")
+
+<img src="https://github.com/vvHacker007/Physiback/blob/main/correct.gif">
 
 ### Check out the [Project Proposal](https://www.canva.com/design/DAE6Ft86pmE/UrXmR4n-ZlNA-ntbw3mXcw/view?utm_content=DAE6Ft86pmE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) for our product.
 

@@ -5,7 +5,9 @@ Repository to hold code for the '*exercise posture analysis*' project that is be
 
 ## Problem Inspiration<br>
 <br>
-<img align='center'  width=500px src="Images/3.png"><br>
+<p align="center" width="100%">
+    <img align='center'  width=500px src="Images/3.png"><br>
+</p>
 <br>
 The interest in Fitness and Gym is on the rise, and people have started knowing the importance of fitness and health in these trying times. With Gym costly for many  and lack of proper guidance. Injuries have become very frequent. .<br>
 <br>
@@ -17,12 +19,16 @@ The interest in Fitness and Gym is on the rise, and people have started knowing 
 *What are the problems we face if we don't exercise for a long time?*
 <br>
 <br>
-<img src="Images/problems.png"><br>
+<p align="center" width="100%">
+    <img src="Images/problems.png"><br>
+</p>
 <br>
 *What are the benifits we get if we exercise regularly?*
 <br>
 <br>
-<img src="Images/2.png"><br>
+<p align="center" width="100%">
+    <img src="Images/2.png"><br>
+</p>
 <br>
 There are multiple issues that people face in relation with the exercises, fitness and gym scenario, few of them are given as follows:
 - The gym costs a lot of money, time. Many people don't want to pay for a gym membership if they're not going that often.
